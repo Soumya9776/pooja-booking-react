@@ -35,8 +35,6 @@ export default function Login(){
     }
     return(
         <div>
-            <div>Login</div>
-            <div>hello</div>
             <form>
                 <label htmlFor="email">User Name:</label><input type="text" name="email" id="email" placeholder="Enter your email.." value={loginData.email} onChange={HandleChange}/><br/>
                 <label htmlFor="password">Password:</label><input type="text" name="password" id="password" placeholder="Enter your password.." value={loginData.password} onChange={HandleChange}/><br/>
