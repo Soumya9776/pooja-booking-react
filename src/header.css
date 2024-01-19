@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    border: 2px solid black;
+    /* justify-content: flex-end  */
+    background-color: chartreuse;
+
+}
+#input-with-icon{
+    height: 3px;
+    width: 280px;
+    margin-right: 20px;
+    
+}
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    background: white;
+}
+.account{
+    /* margin-right: 1% !important; */
+    font-size:small !important;
+    
+}
+.cart{
+    /* margin-right: 1% !important; */
+    font-size:small !important;
+}
+.help{
+    /* margin-right: 1% !important; */
+    font-size:small !important;
+}
+.left-header{
+    height: 40px;
+    width: 45%;
+}
+.right-header{
+    display: flex;
+    /* justify-content: flex-end; */
+    width: 50%;
+    height: 30px;
+    justify-content: space-between;
+    margin-left: 4%;
+    padding-top: 0.5%;
+    font-size:x-small;
+}
+.img-logo{
+    height: 38px;
+    margin-right: 5%;
+}
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    margin-top: 2px;
+}
